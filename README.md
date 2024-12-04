@@ -1,4 +1,4 @@
 # Tatapower_training
 training
 <br>
-Author- Vedant Patil
+Author- Vedant Patil-IT Trainee 
